@@ -1,0 +1,54 @@
+.hero {
+    background-image: url(./images/hero.jpg);
+    height: 700px;
+}
+
+.hero-logo {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.log-in {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #FFFFFF;    
+}
+
+.sign-up {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    background: rgba(26, 25, 21, 0.0001);
+    border: 2px solid #FFFFFF;
+    height: 39px;
+    width: 93px;
+    border-radius: 30px;
+    justify-content: center;
+}
+
+.hero-boks {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
