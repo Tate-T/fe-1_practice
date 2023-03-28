@@ -134,3 +134,15 @@ color: #FFFFFF;
     margin-bottom: 31px;
      
 }
+
+
+.foto-item{
+    width: 200px;
+    margin-right: 30px;
+}
+
+.foto-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
