@@ -12,6 +12,8 @@ ul{
 .hero {
     background-image: url(./images/hero.jpg);
     height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .hero-logo {
@@ -114,4 +116,21 @@ text-align: center;
 
 color: #FFFFFF;
 
+}
+
+.partners {
+    padding-top: 70px;
+}
+
+.partners-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: center;
+    
+    color: #333333;
+    margin-bottom: 31px;
+     
 }
