@@ -139,10 +139,28 @@ color: #FFFFFF;
 .foto-item{
     width: 200px;
     margin-right: 30px;
+    text-align: center;
+    
 }
 
 .foto-list {
     display: flex;
     flex-direction: row;
     justify-content: center;
+}
+.partners-name {
+    margin-top: 16px;
+    margin-bottom: 13px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 14.0112px;
+line-height: 17px;
+color: #333333;
+}
+.partners-text {
+    font-family: 'Roboto';
+    font-weight: 300;
+font-size: 14.0112px;
+line-height: 16px;
+color: #666666;
 }
