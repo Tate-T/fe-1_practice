@@ -186,3 +186,13 @@ display:block;
 margin-top: 37px;
 margin-bottom: 72px;
 }
+/* споріднений селектор */
+.hero-logo ~ a{
+    color: gold;
+
+}
+/* селекто сусіда */
+.hero-logo + .log-in{
+    color: aqua;
+
+}
